@@ -8,42 +8,84 @@ class ChatList extends StatelessWidget {
       'message': 'I’m going to San Francisco ...',
       'time': 'now',
       'isOnline': true,
-      'image': 'assets/images/janet.jpg'
+      'image': 'assets/Users/user4.jpg'
     },
     {
       'name': 'Jason Boyd',
       'message': 'Sound goods.',
       'time': '16:00',
       'isOnline': false,
-      'image': 'assets/images/jason.jpg'
+      'image': 'assets/Users/User1.jpg'
     },
     {
       'name': 'Nicholas Dunn',
       'message': 'See you there!',
       'time': '09:10',
       'isOnline': false,
-      'image': 'assets/images/nicholas.jpg'
+      'image': 'assets/Users/user2.jpg'
     },
     {
       'name': 'Carol Clark',
       'message': 'You sent a sticker.',
       'time': 'Mon',
       'isOnline': true,
-      'image': 'assets/images/carol.jpg'
+      'image': 'assets/Users/user3.jpg'
     },
     {
       'name': 'Ann Carroll',
       'message': 'Dinner tonight?',
       'time': 'Mon',
       'isOnline': false,
-      'image': 'assets/images/ann.jpg'
+      'image': 'assets/Users/user4.jpg'
     },
     {
       'name': 'Jeffrey Lawrence',
       'message': 'Thats works for me',
       'time': 'Mon',
       'isOnline': false,
-      'image': 'assets/images/jeffrey.jpg'
+      'image': 'assets/Users/user5.jpg'
+    },
+    {
+      'name': 'Janet Fowler',
+      'message': 'I’m going to San Francisco ...',
+      'time': 'now',
+      'isOnline': true,
+      'image': 'assets/Users/user4.jpg'
+    },
+    {
+      'name': 'Jason Boyd',
+      'message': 'Sound goods.',
+      'time': '16:00',
+      'isOnline': false,
+      'image': 'assets/Users/User1.jpg'
+    },
+    {
+      'name': 'Nicholas Dunn',
+      'message': 'See you there!',
+      'time': '09:10',
+      'isOnline': false,
+      'image': 'assets/Users/user2.jpg'
+    },
+    {
+      'name': 'Carol Clark',
+      'message': 'You sent a sticker.',
+      'time': 'Mon',
+      'isOnline': true,
+      'image': 'assets/Users/user3.jpg'
+    },
+    {
+      'name': 'Ann Carroll',
+      'message': 'Dinner tonight?',
+      'time': 'Mon',
+      'isOnline': false,
+      'image': 'assets/Users/user4.jpg'
+    },
+    {
+      'name': 'Jeffrey Lawrence',
+      'message': 'Thats works for me',
+      'time': 'Mon',
+      'isOnline': false,
+      'image': 'assets/Users/user5.jpg'
     },
   ];
 
