@@ -21,6 +21,8 @@ Chattapp is a chat application designed to provide users with seamless and secur
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|--------------|--------------|
 | ![Screenshot 1](https://github.com/MahmoudMadihBedier/chattapp/assets/166904135/7b5958fe-ae6a-46a2-a392-a1b73704371e) | ![Screenshot 2](https://github.com/MahmoudMadihBedier/chattapp/assets/166904135/c4442f47-7e85-4ac7-8904-6e62fea4428d) | ![Screenshot 3](https://github.com/MahmoudMadihBedier/chattapp/assets/166904135/790f9621-6370-43ce-bb62-8be0e8498ad2) | ![Screenshot 4](https://github.com/MahmoudMadihBedier/chattapp/assets/166904135/227943d9-2fd2-405a-a8bd-ba2cb013fd44) |
+![WhatsApp Image 2024-07-09 at 1 54 34 AM (2)](https://github.com/MahmoudMadihBedier/chattapp/assets/166904135/e8ddcd5f-3e7f-44f2-bbad-1eacad52f782)
+
 
 ### Demo Video
 
